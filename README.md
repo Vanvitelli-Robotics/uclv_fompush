@@ -2,7 +2,7 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 # Non-Prehensile Manipulation Actions and Visual 6D Pose Estimation for Fruit Grasping Based on Tactile Sensing
-This workspace extends the work of [Hogan et al.]() on the design of a Linear Model Predictive Control to perform _pushing_ manouvre under the quasi-static assumption in the Matlab environment through the [Gurobi optimizer](https://www.gurobi.com/).
+This workspace extends the work of [Hogan et al.]() on the design of a Linear Model Predictive Control to perform _pushing_ manouvre under the quasi-static assumption in the Matlab environment through the [Gurobi optimizer](https://www.gurobi.com/). Have a look at the attached video! 
 [![Have a looK!](intro.jpg)](https://www.youtube.com/watch?v=hSD_GbTA868)
 
 ## Content
